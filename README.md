@@ -1,1 +1,3 @@
-# CSPB3308Lab4
+# CSPB 3308 Lab4
+Josh White
+
